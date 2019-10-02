@@ -1,2 +1,2 @@
-# DISE-O-WEB_HTML
+# DISEÑO-WEB
 Gráfico en diseño web:
